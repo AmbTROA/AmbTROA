@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmbTROA
+- 👀 I’m interested in AI learning
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me via email: amb.troa@gmail.com
